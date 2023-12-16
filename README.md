@@ -37,7 +37,7 @@ To explore the world of footwear at your fingertips:
    git clone https://github.com/your-username/shoes-e-commerce.git
    cd shoes-e-commerce
    npm install
-   npm start ```
+   npm start
    
  2.Visit:
  local 3000 to start shopping!
