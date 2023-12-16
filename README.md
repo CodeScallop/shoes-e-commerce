@@ -44,6 +44,7 @@ To explore the world of footwear at your fingertips:
    npm start
    
  2.Visit:
+
  local 3000 to start shopping!
 
 Happy shopping! 👟🛍️
