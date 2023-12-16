@@ -35,8 +35,14 @@ To explore the world of footwear at your fingertips:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/shoes-e-commerce.git
+      ```bash
+
    cd shoes-e-commerce
+      ```bash
+
    npm install
+      ```bash
+
    npm start
    
  2.Visit:
