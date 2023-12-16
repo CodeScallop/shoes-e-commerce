@@ -36,7 +36,6 @@ To explore the world of footwear at your fingertips:
    ```bash
    git clone https://github.com/your-username/shoes-e-commerce.git```
 
-
    cd shoes-e-commerce
 
    npm install
